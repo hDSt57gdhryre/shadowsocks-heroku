@@ -1,10 +1,10 @@
 {
   "server": "hDSt57gdhryre.herokuapp.com",
-  "local_address": "0.0.0.0",
-  "scheme": "ws",127.0.0.1
+  "local_address": "127.0.0.1",
+  "scheme": "ws",
   "local_port": 1080,
   "remote_port": 443,
   "password": "onplus",
   "timeout": 600,
-  "method": "aes-256-cfb"
+  "method": "aes-512-cfb"
 }
